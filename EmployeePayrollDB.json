@@ -1,0 +1,19 @@
+{
+    "EmployeePayrollDB": [
+        {
+            "id" : 1,
+            "_name" : "Mark Taylor",
+            "_gender" : "male",
+            "_department" : [
+                "HR",
+                "Sales",
+                "Finance",
+                "Engineer"
+            ],
+            "_salary": "50000",
+            "_startDate" : "29 Oct 2019",
+            "_note" : "All In One",
+            "_profilePic" : "../assets/profile1.jpg"
+        }
+    ]
+}
